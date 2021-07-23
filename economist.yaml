@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/economist
+
+# Behavior: domain
+
+payload:
+- "+.economist.com"
+- "+.economistgroup.com"
+- "+.economistgroupcareers.com"
+- "+.eiu.com"

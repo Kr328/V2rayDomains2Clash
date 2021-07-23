@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dazn
+
+# Behavior: domain
+
+payload:
+- "+.dazn-api.com"
+- "+.dazn.com"
+- "+.dazndn.com"
+- "+.indazn.com"
+- "+.indaznlab.com"

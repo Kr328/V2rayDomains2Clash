@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vk
+
+# Behavior: domain
+
+payload:
+- "+.mvk.com"
+- "+.userapi.com"
+- "+.vk-cdn.me"
+- "+.vk-cdn.net"
+- "+.vk-portal.net"
+- "+.vk.cc"
+- "+.vk.com"
+- "+.vk.design"
+- "+.vk.link"
+- "+.vk.me"
+- "+.vkcache.com"
+- "+.vkgo.app"
+- "+.vklive.app"
+- "+.vkmessenger.app"
+- "+.vkmessenger.com"
+- "+.vkontakte.ru"
+- "+.vkuseraudio.com"
+- "+.vkuserlive.net"
+- "+.vkuservideo.com"
+- "+.vkuservideo.net"

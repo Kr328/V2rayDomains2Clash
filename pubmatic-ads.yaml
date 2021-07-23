@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pubmatic-ads
+
+# Behavior: domain
+
+payload:
+- "+.ads.pubmatic.com"

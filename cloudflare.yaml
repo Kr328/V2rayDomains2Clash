@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudflare
+
+# Behavior: domain
+
+payload:
+- "+.cloudflare-dns.com"
+- "+.cloudflare-ipfs.com"
+- "+.cloudflare.com"
+- "+.cloudflare.net"
+- "+.cloudflareapps.com"
+- "+.cloudflarebolt.com"
+- "+.cloudflareclient.com"
+- "+.cloudflareinsights.com"
+- "+.cloudflareok.com"
+- "+.cloudflareresolve.com"
+- "+.cloudflaressl.com"
+- "+.cloudflarestatus.com"
+- "+.cloudflarestream.com"
+- "+.cloudflaretest.com"
+- "+.cloudflarewarp.com"
+- "+.one.one.one"
+- "+.pages.dev"
+- "+.trycloudflare.com"
+- "+.videodelivery.net"
+- "+.warp.plus"
+- "+.workers.dev"

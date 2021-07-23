@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gitee
+
+# Behavior: domain
+
+payload:
+- "+.gitee.com"
+- "+.gitee.io"

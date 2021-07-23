@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/surflite
+
+# Behavior: domain
+
+payload:
+- "+.surflite.co"
+- "+.surflite.net"

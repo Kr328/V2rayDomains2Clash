@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mojang
+
+# Behavior: domain
+
+payload:
+- "+.callersbane.com"
+- "+.minecraft.net"
+- "+.minecraftshop.com"
+- "+.mojang.com"

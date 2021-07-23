@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ynet
+
+# Behavior: domain
+
+payload:
+- "+.ynet.cn"
+- "+.ynet.com"
+- "+.ynet.com.cn"

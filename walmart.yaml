@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/walmart
+
+# Behavior: domain
+
+payload:
+- "+.wal-mart.com"
+- "+.wal.co"
+- "+.walmart"
+- "+.walmart-content.com"
+- "+.walmart.com"
+- "+.walmart.pharmacy"
+- "+.walmartimages.com"
+- "+.wmt.co"

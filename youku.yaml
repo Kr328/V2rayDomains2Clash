@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+# Behavior: domain
+
+payload:
+- "+.cibntv.net"
+- "+.kumiao.com"
+- "+.mmstat.com"
+- "+.soku.com"
+- "+.ykimg.com"
+- "+.youku.com"

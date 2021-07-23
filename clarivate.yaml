@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/clarivate
+
+# Behavior: domain
+
+payload:
+- "+.clarivate.com"
+- "+.isiknowledge.com"
+- "+.newisiknowledge.com"
+- "+.webofknowledge.com"
+- "+.webofscience.com"

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ctexcel
+
+# Behavior: domain
+
+payload:
+- "+.ctexcel.ca"
+- "+.ctexcel.com"
+- "+.ctexcel.com.hk"
+- "+.ctexcel.fr"
+- "+.ctexcel.us"

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nytimes
+
+# Behavior: domain
+
+payload:
+- "+.nyt.com"
+- "+.nyt.net"
+- "+.nytchina.com"
+- "+.nytcn.me"
+- "+.nytco.com"
+- "+.nyti.ms"
+- "+.nytimes.com"
+- "+.nytstyle.com"
+- "+.timestalks.com"

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wwe
+
+# Behavior: domain
+
+payload:
+- "+.wwe.com"
+- "+.wwe9.com"

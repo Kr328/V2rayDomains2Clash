@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/python
+
+# Behavior: domain
+
+payload:
+- "+.pycon.org"
+- "+.pypa.io"
+- "+.pypi.io"
+- "+.pypi.org"
+- "+.python.org"
+- "+.pythonhosted.org"

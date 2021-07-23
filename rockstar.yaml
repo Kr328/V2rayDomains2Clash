@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rockstar
+
+# Behavior: domain
+
+payload:
+- "+.rockstargames.com"
+- "+.rsg.sc"
+- "gamedownloads-rockstargames-com.akamaized.net"
+- "media-rockstargames-com.akamaized.net"
+- "videos-rockstargames-com.akamaized.net"

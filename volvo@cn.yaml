@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/volvo
+
+# Behavior: domain
+
+payload:
+- "+.vfsco.com.cn"
+- "+.volvo.cn"
+- "+.volvo.com.cn"
+- "+.volvogroup.cn"
+- "+.volvogroup.com.cn"
+- "+.volvotrucks.com.cn"

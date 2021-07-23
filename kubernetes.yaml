@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kubernetes
+
+# Behavior: domain
+
+payload:
+- "+.k8s.io"
+- "+.kubernetes.io"

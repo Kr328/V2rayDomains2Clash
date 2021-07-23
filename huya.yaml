@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huya
+
+# Behavior: domain
+
+payload:
+- "+.huya.com"
+- "+.msstatic.com"

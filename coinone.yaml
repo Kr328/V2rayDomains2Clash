@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coinone
+
+# Behavior: domain
+
+payload:
+- "+.coinone.co.kr"
+- "+.coinonecore.com"
+- "+.coinonecorp.com"

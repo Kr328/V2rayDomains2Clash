@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intel
+
+# Behavior: domain
+
+payload:
+- "+.clearlinux.cn"
+- "+.intel.cn"
+- "+.intel.com.cn"
+- "+.intelrealsense.cn"

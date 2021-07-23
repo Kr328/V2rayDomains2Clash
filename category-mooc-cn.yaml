@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-mooc-cn
+
+# Behavior: domain
+
+payload:
+- "+.chinesemooc.org"
+- "+.cnmooc.org"
+- "+.icourse163.org"
+- "+.icourses.cn"
+- "+.mooc.cn"
+- "+.openlearning.com"
+- "+.pmphmooc.com"
+- "moocs.unipus.cn"
+- "opencourse.pku.edu.cn"
+- "study.163.com"

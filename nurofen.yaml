@@ -1,0 +1,33 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nurofen
+
+# Behavior: domain
+
+payload:
+- "+.nurofen.at"
+- "+.nurofen.bg"
+- "+.nurofen.cn"
+- "+.nurofen.co.il"
+- "+.nurofen.co.nz"
+- "+.nurofen.co.uk"
+- "+.nurofen.co.za"
+- "+.nurofen.com"
+- "+.nurofen.com.au"
+- "+.nurofen.com.cn"
+- "+.nurofen.com.sg"
+- "+.nurofen.cz"
+- "+.nurofen.de"
+- "+.nurofen.es"
+- "+.nurofen.fr"
+- "+.nurofen.hr"
+- "+.nurofen.hu"
+- "+.nurofen.ie"
+- "+.nurofen.it"
+- "+.nurofen.net"
+- "+.nurofen.no"
+- "+.nurofen.pl"
+- "+.nurofen.pt"
+- "+.nurofen.ro"
+- "+.nurofen.ru"
+- "+.nurofen.sk"
+- "+.nurofengel.com"
+- "nurofensk-prod-env.eu-west-1.elasticbeanstalk.com"

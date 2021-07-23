@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/v2ray
+
+# Behavior: domain
+
+payload:
+- "+.v2fly.org"
+- "+.v2ray.com"
+- "+.v2ray.cool"

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/theguardian
+
+# Behavior: domain
+
+payload:
+- "+.dev-guardianapis.com"
+- "+.dev-theguardian.com"
+- "+.gu-web.net"
+- "+.guardianapis.com"
+- "+.guardianapps.co.uk"
+- "+.guim.co.uk"
+- "+.theguardian"
+- "+.theguardian.com"
+- "+.theguardiandns.com"

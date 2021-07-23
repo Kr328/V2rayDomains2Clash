@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/perl
+
+# Behavior: domain
+
+payload:
+- "+.cpan.org"
+- "+.metacpan.org"
+- "+.perl.org"

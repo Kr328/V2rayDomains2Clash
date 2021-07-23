@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/debian
+
+# Behavior: domain
+
+payload:
+- "+.debian.org"
+- "+.dotdeb.org"

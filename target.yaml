@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/target
+
+# Behavior: domain
+
+payload:
+- "+.target"
+- "+.target.com"
+- "+.targetimg1.com"

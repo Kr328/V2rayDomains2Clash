@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/private
+
+# Behavior: domain
+
+payload:
+- "+.example"
+- "+.home.arpa"
+- "+.invalid"
+- "+.lan"
+- "+.local"
+- "+.localdomain"
+- "+.localhost"
+- "+.localhost.ptlogin2.qq.com"
+- "+.localhost.sec.qq.com"
+- "+.msftconnecttest.com"
+- "+.test"
+- "router.asus.com"

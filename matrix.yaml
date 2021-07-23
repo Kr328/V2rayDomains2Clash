@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/matrix
+
+# Behavior: domain
+
+payload:
+- "+.arewereadyyet.com"
+- "+.element.io"
+- "+.matrix.org"
+- "+.matrix.to"
+- "+.modular.im"
+- "+.riot.im"
+- "+.vector.im"

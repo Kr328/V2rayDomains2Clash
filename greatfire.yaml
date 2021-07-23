@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/greatfire
+
+# Behavior: domain
+
+payload:
+- "+.applecensorship.com"
+- "+.freebrowser.org"
+- "+.freewechat.com"
+- "+.freeweibo.com"
+- "+.greatfire.org"

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/douyu
+
+# Behavior: domain
+
+payload:
+- "+.douyu.com"
+- "+.douyu.tv"
+- "+.douyucdn.cn"
+- "+.douyucdn2.cn"
+- "+.douyuscdn.com"
+- "+.douyutv.com"

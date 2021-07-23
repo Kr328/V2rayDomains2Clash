@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hiido-ads
+
+# Behavior: domain
+
+payload:
+- "+.mlog.hiido.com"
+- "+.ylog.hiido.com"

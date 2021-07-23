@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imgur
+
+# Behavior: domain
+
+payload:
+- "+.imgur.com"
+- "+.imgurinc.com"

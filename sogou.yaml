@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sogou
+
+# Behavior: domain
+
+payload:
+- "+.go2map.com"
+- "+.sogo.com"
+- "+.sogou.com"
+- "+.sogoucdn.com"

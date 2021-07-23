@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/espressif
+
+# Behavior: domain
+
+payload:
+- "+.esp32.com"
+- "+.esp8266.com"
+- "+.espressif.com"

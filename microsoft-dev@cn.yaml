@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/microsoft-dev
+
+# Behavior: domain
+
+payload:
+- "+.microsoftreactor.cn"
+- "+.microsoftreactor.com.cn"
+- "+.reactorms.com.cn"

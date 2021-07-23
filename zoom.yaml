@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zoom
+
+# Behavior: domain
+
+payload:
+- "+.zoom.com"
+- "+.zoom.com.cn"
+- "+.zoom.us"

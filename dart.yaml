@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dart
+
+# Behavior: domain
+
+payload:
+- "+.dart.dev"
+- "+.dartlang.org"
+- "+.dartpad.dev"

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi
+
+# Behavior: domain
+
+payload:
+- "+.mi-img.com"
+- "+.mi.com"
+- "+.mifile.cn"
+- "+.miui.com"
+- "+.miwifi.com"
+- "+.xiaomi.cn"
+- "+.xiaomi.com"
+- "+.xiaomi.net"
+- "+.xiaomiyoupin.com"

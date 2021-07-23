@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fedora
+
+# Behavior: domain
+
+payload:
+- "+.fedoraforum.org"
+- "+.fedoramagazine.org"
+- "+.fedoraproject.org"
+- "+.getfedora.org"

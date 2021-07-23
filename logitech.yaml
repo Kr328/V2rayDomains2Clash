@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/logitech
+
+# Behavior: domain
+
+payload:
+- "+.logi.com"
+- "+.logicool.co.jp"
+- "+.logicoolg.com"
+- "+.logitech.biz"
+- "+.logitech.com"
+- "+.logitech.fr"
+- "+.logitechg.com"
+- "+.logitechg.fr"
+- "+.worldsfastestgamer.net"

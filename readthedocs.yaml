@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/readthedocs
+
+# Behavior: domain
+
+payload:
+- "+.readthedocs-hosted.com"
+- "+.readthedocs.com"
+- "+.readthedocs.io"
+- "+.readthedocs.org"

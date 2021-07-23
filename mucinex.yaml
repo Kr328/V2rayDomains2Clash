@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mucinex
+
+# Behavior: domain
+
+payload:
+- "+.mucinex.ca"
+- "+.mucinex.cn"
+- "+.mucinex.co.nz"
+- "+.mucinex.com"
+- "+.mucinex.com.cn"
+- "+.mucinex.net"
+- "+.mucinex.tv"
+- "+.mucinexprofessional.com"

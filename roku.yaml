@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/roku
+
+# Behavior: domain
+
+payload:
+- "+.fandango.com"
+- "+.mgo-images.com"
+- "+.mgo.com"
+- "+.ravm.tv"
+- "+.roku.com"
+- "+.rokutime.com"

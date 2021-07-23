@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pingan
+
+# Behavior: domain
+
+payload:
+- "+.pingan.com"
+- "+.pingan.com.cn"
+- "+.pingan.com.hk"
+- "+.yqb.com"

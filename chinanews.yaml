@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinanews
+
+# Behavior: domain
+
+payload:
+- "+.chinanews.com"
+- "+.chinanews.com.cn"
+- "+.cns.com.cn"
+- "+.ecns.cn"

@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tld-cn
+
+# Behavior: domain
+
+payload:
+- "+.baidu"
+- "+.citic"
+- "+.cn"
+- "+.sohu"
+- "+.unicom"
+- "+.xn--1qqw23a"
+- "+.xn--6frz82g"
+- "+.xn--8y0a063a"
+- "+.xn--estv75g"
+- "+.xn--fiq64b"
+- "+.xn--fiqs8s"
+- "+.xn--fiqz9s"
+- "+.xn--vuq861b"
+- "+.xn--xhq521b"
+- "+.xn--zfr164b"

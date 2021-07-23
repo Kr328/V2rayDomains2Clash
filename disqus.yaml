@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/disqus
+
+# Behavior: domain
+
+payload:
+- "+.disqus.com"
+- "+.disquscdn.com"
+- "+.disqusservice.com"

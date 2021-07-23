@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rarbg
+
+# Behavior: domain
+
+payload:
+- "+.proxyrarbg.org"
+- "+.rarbg.is"
+- "+.rarbg.me"
+- "+.rarbg.to"
+- "+.rarbgaccess.org"
+- "+.rarbggo.org"
+- "+.rarbgmirror.com"
+- "+.rarbgmirror.org"
+- "+.rarbgproxy.org"
+- "+.rarbgprx.org"
+- "+.rarbgunblock.com"

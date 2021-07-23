@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/launchpad
+
+# Behavior: domain
+
+payload:
+- "+.launchpad.net"
+- "+.launchpadlibrarian.com"
+- "+.launchpadlibrarian.net"
+- "+.launchpadlibrarian.org"

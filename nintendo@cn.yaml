@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nintendo
+
+# Behavior: domain
+
+payload:
+- "+.legendofzelda.cn"
+- "+.legendofzelda.com.cn"
+- "+.mariokart.cn"
+- "+.mariokart.com.cn"
+- "+.miitomo.com.cn"
+- "+.nintendolabo.cn"
+- "+.supermariobros.com.cn"
+- "+.supersmashbros.cn"
+- "+.supersmashbros.com.cn"
+- "+.xn--mts47c3w9b1qr.cn"

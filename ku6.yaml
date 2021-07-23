@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ku6
+
+# Behavior: domain
+
+payload:
+- "+.ku6.com"
+- "+.ku6cdn.com"
+- "+.ku6img.com"

@@ -1,0 +1,28 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cbs
+
+# Behavior: domain
+
+payload:
+- "+.cbs"
+- "+.cbs.com"
+- "+.cbsaavideo.com"
+- "+.cbscorporation.com"
+- "+.cbsi.com"
+- "+.cbsi.video"
+- "+.cbsiam.com"
+- "+.cbsig.net"
+- "+.cbsimg.net"
+- "+.cbsinteractive.com"
+- "+.cbsistatic.com"
+- "+.cbsivideo.com"
+- "+.cbsnews.com"
+- "+.cbspressexpress.com"
+- "+.cbssports.com"
+- "+.cbsstatic.com"
+- "+.cbssvideo.com"
+- "+.paramount.com"
+- "+.showtime"
+- "+.viacbs.com"
+- "+.viacom.com"
+- "+.viacomcbs.com"
+- "+.viacomcbspressexpress.com"

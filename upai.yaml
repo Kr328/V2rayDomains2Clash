@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/upai
+
+# Behavior: domain
+
+payload:
+- "+.aicdn.com"
+- "+.oncdp.com"
+- "+.upai.com"
+- "+.upaiyun.com"
+- "+.upcdn.net"
+- "+.upyun.com"

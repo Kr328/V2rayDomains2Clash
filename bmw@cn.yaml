@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bmw
+
+# Behavior: domain
+
+payload:
+- "+.alphabet.com.cn"
+- "+.alphabet.net.cn"
+- "+.bmw.com.cn"

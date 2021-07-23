@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-update
+
+# Behavior: domain
+
+payload:
+- "+.appldnld.apple.com"
+- "+.gg.apple.com"
+- "+.gnf-mdn.apple.com"
+- "+.gnf-mr.apple.com"
+- "+.gs.apple.com"
+- "+.ig.apple.com"
+- "+.mesu.apple.com"
+- "+.ns.itunes.apple.com"
+- "+.oscdn.apple.com"
+- "+.osrecovery.apple.com"
+- "+.skl.apple.com"
+- "+.swcdn.apple.com"
+- "+.swdist.apple.com"
+- "+.swdownload.apple.com"
+- "+.swpost.apple.com"
+- "+.swscan.apple.com"
+- "+.updates-http.cdn-apple.com"
+- "+.updates.cdn-apple.com"
+- "+.xp.apple.com"

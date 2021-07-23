@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dowjones
+
+# Behavior: domain
+
+payload:
+- "+.djreprints.com"
+- "+.dowjones.com"
+- "+.dowjones.io"
+- "+.dowjoneson.com"

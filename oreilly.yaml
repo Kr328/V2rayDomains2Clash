@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oreilly
+
+# Behavior: domain
+
+payload:
+- "+.oreil.ly"
+- "+.oreilly.com"
+- "+.oreilly.com.cn"
+- "+.oreilly.review"
+- "+.oreillystatic.com"
+- "+.orl.ly"

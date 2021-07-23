@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/blizzard
+
+# Behavior: domain
+
+payload:
+- "+.battlenet.com.cn"
+- "+.blizzard.cn"
+- "+.blizzardgames.cn"
+- "+.blzstatic.cn"
+- "+.bnet.163.com"
+- "+.wowchina.com"
+- "blz.nosdn.127.net"
+- "cn.actual.battle.net"
+- "di.res.netease.com"
+- "diablo3.nosdn.127.net"
+- "hearthstone.nosdn.127.net"
+- "heroes.nos.netease.com"
+- "overwatch.nosdn.127.net"
+- "sc2.nosdn.127.net"
+- "wow.nosdn.127.net"

@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huawei
+
+# Behavior: domain
+
+payload:
+- "+.dbank.com"
+- "+.dbankcdn.com"
+- "+.harmonyos.com"
+- "+.hicloud.com"
+- "+.hihonor.com"
+- "+.honor.cn"
+- "+.huawei.com"
+- "+.huaweicloud.com"
+- "+.vmall.com"
+- "+.vmallres.com"

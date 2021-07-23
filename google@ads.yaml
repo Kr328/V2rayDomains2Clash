@@ -1,0 +1,29 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google
+
+# Behavior: domain
+
+payload:
+- "+.2mdn.net"
+- "+.admob.com"
+- "+.adsense.com"
+- "+.adsensecustomsearchads.com"
+- "+.adsenseformobileapps.com"
+- "+.advertisercommunity.com"
+- "+.advertiserscommunity.com"
+- "+.adwords-community.com"
+- "+.adwords.com"
+- "+.adwordsexpress.com"
+- "+.app-measurement.com"
+- "+.clickserver.googleads.com"
+- "+.doubleclick.com"
+- "+.doubleclick.net"
+- "+.google-analytics.com"
+- "+.googleadapis.com"
+- "+.googleadservices.com"
+- "+.googleanalytics.com"
+- "+.googleoptimize.com"
+- "+.googlesyndication.com"
+- "+.googletagmanager.com"
+- "+.googletagservices.com"
+- "+.googletraveladservices.com"
+- "+.urchin.com"

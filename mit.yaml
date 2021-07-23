@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mit
+
+# Behavior: domain
+
+payload:
+- "+.mit"
+- "+.mit.edu"
+- "+.mit.net"
+- "+.mitpressjournals.org"

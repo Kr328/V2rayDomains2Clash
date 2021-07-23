@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili
+
+# Behavior: domain
+
+payload:
+- "+.acg.tv"
+- "+.acgvideo.com"
+- "+.b23.tv"
+- "+.biliapi.com"
+- "+.biliapi.net"
+- "+.bilibili.com"
+- "+.bilibiligame.net"
+- "+.biligame.com"
+- "+.biligame.net"
+- "+.biligo.com"
+- "+.bilivideo.cn"
+- "+.bilivideo.com"
+- "+.hdslb.com"
+- "+.im9.com"
+- "+.mincdn.com"
+- "upos-hz-mirrorakam.akamaized.net"

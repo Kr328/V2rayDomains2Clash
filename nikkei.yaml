@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nikkei
+
+# Behavior: domain
+
+payload:
+- "+.nikkei.co.jp"
+- "+.nikkei.com"
+- "+.nikkei.jp"

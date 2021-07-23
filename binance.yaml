@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/binance
+
+# Behavior: domain
+
+payload:
+- "+.binance.charity"
+- "+.binance.cloud"
+- "+.binance.com"
+- "+.binance.vision"
+- "+.binancezh.com"
+- "+.bnbstatic.com"
+- "+.yshyqxx.com"

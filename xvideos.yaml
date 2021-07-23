@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xvideos
+
+# Behavior: domain
+
+payload:
+- "+.xvideos-cdn.com"
+- "+.xvideos.com"

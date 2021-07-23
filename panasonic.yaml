@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/panasonic
+
+# Behavior: domain
+
+payload:
+- "+.panasonic"
+- "+.panasonic.cn"
+- "+.panasonic.com"
+- "+.panasonic.jp"
+- "+.technics.com"

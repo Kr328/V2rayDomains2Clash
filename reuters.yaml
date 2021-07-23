@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/reuters
+
+# Behavior: domain
+
+payload:
+- "+.reuters.com"
+- "+.reuters.tv"
+- "+.reutersmedia.net"

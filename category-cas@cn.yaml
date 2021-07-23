@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-cas
+
+# Behavior: domain
+
+payload:
+- "ocsp.globalsign.com"
+- "ocsp2.globalsign.com"
+- "secure.globalsign.com"

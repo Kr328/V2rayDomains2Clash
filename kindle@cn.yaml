@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kindle
+
+# Behavior: domain
+
+payload:
+- "+.kindle.cn"
+- "+.kindleoasis.cn"
+- "+.kindleoasis.com.cn"

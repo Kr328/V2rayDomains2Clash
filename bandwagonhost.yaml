@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bandwagonhost
+
+# Behavior: domain
+
+payload:
+- "+.bandwagonhost.com"
+- "+.bwh1.net"
+- "+.bwh8.net"
+- "+.bwh88.net"

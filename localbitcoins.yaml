@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/localbitcoins
+
+# Behavior: domain
+
+payload:
+- "+.localbitcoins.com"
+- "+.localbitcoinschain.com"

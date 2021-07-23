@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/java
+
+# Behavior: domain
+
+payload:
+- "+.java"
+- "+.java.com"
+- "+.java.net"

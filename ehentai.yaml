@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ehentai
+
+# Behavior: domain
+
+payload:
+- "+.e-hentai.org"
+- "+.ehgt.org"
+- "+.ehtracker.org"
+- "+.ehwiki.org"
+- "+.exhentai.org"
+- "+.hentaiverse.org"

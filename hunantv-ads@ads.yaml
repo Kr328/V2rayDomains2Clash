@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hunantv-ads
+
+# Behavior: domain
+
+payload:
+- "+.click.hunantv.com"
+- "+.da.hunantv.com"
+- "+.da.mgtv.com"
+- "+.log.hunantv.com"
+- "+.log.v2.hunantv.com"
+- "+.res.hunantv.com"

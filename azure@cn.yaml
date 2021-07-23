@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/azure
+
+# Behavior: domain
+
+payload:
+- "+.azure.cn"
+- "+.chinacloudapi.cn"
+- "+.chinacloudapp.cn"
+- "+.chinacloudsites.cn"
+- "+.windowsazure.cn"

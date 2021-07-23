@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/protonmail
+
+# Behavior: domain
+
+payload:
+- "+.pm.me"
+- "+.protonmail.ch"
+- "+.protonmail.com"
+- "+.protonstatus.com"

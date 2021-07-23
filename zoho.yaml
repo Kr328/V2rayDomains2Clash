@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zoho
+
+# Behavior: domain
+
+payload:
+- "+.zoho.com"
+- "+.zoho.com.au"
+- "+.zoho.eu"
+- "+.zoho.in"
+- "+.zohocdn.com"
+- "+.zohomeetups.com"
+- "+.zohomerchandise.com"
+- "+.zohopublic.com"
+- "+.zohoschools.com"
+- "+.zohostatic.com"
+- "+.zohostatic.in"
+- "+.zohouniversity.com"
+- "+.zohowebstatic.com"

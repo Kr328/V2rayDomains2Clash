@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dangdang
+
+# Behavior: domain
+
+payload:
+- "+.dangdang.com"
+- "+.ddimg.cn"

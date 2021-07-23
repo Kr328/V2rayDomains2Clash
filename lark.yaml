@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lark
+
+# Behavior: domain
+
+payload:
+- "+.larksuite.com"
+- "+.larksuitecdn.com"

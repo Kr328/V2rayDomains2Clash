@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ucloud
+
+# Behavior: domain
+
+payload:
+- "+.ucloud.cn"
+- "+.ufileos.com"

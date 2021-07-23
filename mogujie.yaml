@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mogujie
+
+# Behavior: domain
+
+payload:
+- "+.mogu.com"
+- "+.mogucdn.com"
+- "+.mogujie.com"

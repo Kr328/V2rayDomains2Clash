@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gog
+
+# Behavior: domain
+
+payload:
+- "gog.qtlglb.com"
+- "gogalaxy.gog-statics.com"
+- "menu-static.gog-statics.com"
+- "productcard.gog-statics.com"
+- "static-login.gog-statics.com"
+- "www4-static.gog-statics.com"

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/limelight
+
+# Behavior: domain
+
+payload:
+- "+.delvenetworks.com"
+- "+.limelight.com"
+- "+.lldns.net"
+- "+.llnw-trials.com"
+- "+.llnw.com"
+- "+.llnw.net"
+- "+.llnwd.net"
+- "+.llnwi.net"

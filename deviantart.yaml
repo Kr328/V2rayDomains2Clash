@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/deviantart
+
+# Behavior: domain
+
+payload:
+- "+.da-files.com"
+- "+.deviantart.com"
+- "+.deviantart.net"

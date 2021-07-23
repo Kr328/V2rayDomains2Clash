@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meitu
+
+# Behavior: domain
+
+payload:
+- "+.meitu.com"
+- "+.meitudata.com"
+- "+.meitustat.com"

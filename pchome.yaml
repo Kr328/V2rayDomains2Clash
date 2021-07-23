@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pchome
+
+# Behavior: domain
+
+payload:
+- "+.ecimg.tw"
+- "+.pchome.com.tw"
+- "+.pchomepay.com.tw"
+- "+.pcloud.tw"
+- "ecapi-pchome.cdn.hinet.net"

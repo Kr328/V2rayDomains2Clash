@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jwplayer
+
+# Behavior: domain
+
+payload:
+- "+.jwpcdn.com"
+- "+.jwplatform.com"
+- "+.jwplayer.com"
+- "+.jwpltx.com"
+- "+.jwpsrv.com"
+- "+.longtailvideo.com"

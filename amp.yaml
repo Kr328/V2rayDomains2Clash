@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amp
+
+# Behavior: domain
+
+payload:
+- "+.amp.dev"
+- "+.ampproject.com"
+- "+.ampproject.net"
+- "+.ampproject.org"
+- "amp.akamaized.net"

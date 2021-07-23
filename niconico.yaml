@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/niconico
+
+# Behavior: domain
+
+payload:
+- "+.nico"
+- "+.nicodic.jp"
+- "+.nicomanga.jp"
+- "+.niconico.com"
+- "+.nicoseiga.jp"
+- "+.nicovideo.jp"
+- "+.nimg.jp"
+- "+.simg.jp"

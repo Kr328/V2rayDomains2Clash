@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/godaddy
+
+# Behavior: domain
+
+payload:
+- "+.godaddy"
+- "+.godaddy.com"
+- "+.x.co"

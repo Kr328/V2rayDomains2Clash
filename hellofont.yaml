@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hellofont
+
+# Behavior: domain
+
+payload:
+- "+.hellofont.cn"
+- "+.hellowebfont.com"
+- "hellofontpreview.oss-cn-beijing.aliyuncs.com"
+- "hellowebfonts.oss-cn-beijing.aliyuncs.com"

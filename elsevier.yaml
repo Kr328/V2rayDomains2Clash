@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/elsevier
+
+# Behavior: domain
+
+payload:
+- "+.els-cdn.com"
+- "+.elsevier-ae.com"
+- "+.elsevier.com"
+- "+.elsevier.io"
+- "+.engineeringvillage.com"
+- "+.evise.com"
+- "+.scopus.com"

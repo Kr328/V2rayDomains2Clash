@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wix
+
+# Behavior: domain
+
+payload:
+- "+.editorx.com"
+- "+.parastorage.com"
+- "+.wix-code.com"
+- "+.wix.com"
+- "+.wixanswers.com"
+- "+.wixapps.net"
+- "+.wixmp.com"
+- "+.wixsite.com"
+- "+.wixstatic.com"

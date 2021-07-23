@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/justmysocks
+
+# Behavior: domain
+
+payload:
+- "+.justmysocks.net"
+- "+.justmysocks1.net"
+- "+.justmysocks2.net"
+- "+.justmysocks4.net"

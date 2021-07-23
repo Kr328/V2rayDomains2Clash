@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kkbox
+
+# Behavior: domain
+
+payload:
+- "+.kfs.io"
+- "+.kk.stream"
+- "+.kkbox.com"
+- "+.kkbox.com.tw"
+- "+.kktix.com"
+- "+.kktv.com.tw"
+- "+.kktv.me"

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tesla
+
+# Behavior: domain
+
+payload:
+- "+.tesla.cn"
+- "+.tesla.com.cn"
+- "+.teslamotors.cn"
+- "+.teslamotors.com.cn"
+- "tesla-cdn.thron.cn"

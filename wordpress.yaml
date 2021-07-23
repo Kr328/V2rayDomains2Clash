@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wordpress
+
+# Behavior: domain
+
+payload:
+- "+.videopress.com"
+- "+.w.org"
+- "+.wordpress.com"
+- "+.wordpress.org"
+- "+.wordpress.tv"
+- "+.wp-themes.com"
+- "+.wp.com"
+- "+.wpvip.com"

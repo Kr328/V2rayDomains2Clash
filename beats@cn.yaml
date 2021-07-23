@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/beats
+
+# Behavior: domain
+
+payload:
+- "+.beats1.cn"
+- "+.beats1.com.cn"
+- "+.beats2.com.cn"
+- "+.beats4.cn"
+- "+.beatsep.cn"

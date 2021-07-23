@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aws
+
+# Behavior: domain
+
+payload:
+- "+.amazonworkdocs.cn"
+- "+.amazonworkdocs.com.cn"

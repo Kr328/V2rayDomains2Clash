@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/atlassian
+
+# Behavior: domain
+
+payload:
+- "+.atlassian.com"
+- "+.bitbucket.org"
+- "+.statuspage.io"
+- "+.trello.com"
+- "+.trellocdn.com"

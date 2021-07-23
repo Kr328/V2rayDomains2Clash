@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gitlab
+
+# Behavior: domain
+
+payload:
+- "+.gitlab-static.net"
+- "+.gitlab.com"
+- "+.gitlab.io"
+- "+.gitlab.net"
+- "gitlab-assets.oss-cn-hongkong.aliyuncs.com"

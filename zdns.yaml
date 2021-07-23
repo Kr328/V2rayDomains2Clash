@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zdns
+
+# Behavior: domain
+
+payload:
+- "+.zcmbc.com.cn"
+- "+.zdns.cn"
+- "+.zdns.net.cn"
+- "+.zdns.org.cn"
+- "+.zdnscloud.biz"
+- "+.zdnscloud.cn"
+- "+.zdnscloud.com"
+- "+.zdnscloud.com.cn"
+- "+.zdnscloud.info"
+- "+.zdnscloud.net"
+- "+.zdnscloud.net.cn"
+- "+.zdnscloud.org.cn"

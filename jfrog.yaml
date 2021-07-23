@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jfrog
+
+# Behavior: domain
+
+payload:
+- "+.bintray.com"
+- "+.jfrog.com"
+- "+.jfrog.org"
+- "d29vzk4ow07wi7.cloudfront.net"

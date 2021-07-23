@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/reddit
+
+# Behavior: domain
+
+payload:
+- "+.redd.it"
+- "+.reddit.com"
+- "+.redditmail.com"
+- "+.redditmedia.com"
+- "+.redditstatic.com"

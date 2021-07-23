@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/startpage
+
+# Behavior: domain
+
+payload:
+- "+.ixquick.com"
+- "+.startpage.com"

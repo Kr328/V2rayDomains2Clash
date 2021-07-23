@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/steam
+
+# Behavior: domain
+
+payload:
+- "+.csgo.wmsj.cn"
+- "+.dl.steam.ksyna.com"
+- "+.dota2.wmsj.cn"
+- "+.st.dl.bscstorage.net"
+- "+.st.dl.eccdnx.com"
+- "+.st.dl.pinyuncloud.com"
+- "+.steampipe.steamcontent.tnkjmec.com"
+- "+.steampowered.com.8686c.com"
+- "+.steamstatic.com.8686c.com"
+- "+.wmsjsteam.com"

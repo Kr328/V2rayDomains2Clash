@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/acer
+
+# Behavior: domain
+
+payload:
+- "+.acer-group.com"
+- "+.acer.com"
+- "+.acer.com.cn"

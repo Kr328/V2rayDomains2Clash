@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imperialcollege
+
+# Behavior: domain
+
+payload:
+- "+.ic.ac.uk"
+- "+.imperial.ac.uk"
+- "+.imperialbusiness.school"
+- "imperial.insendi.com"

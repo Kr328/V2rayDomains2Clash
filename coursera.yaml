@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coursera
+
+# Behavior: domain
+
+payload:
+- "+.coursera-for-business.org"
+- "+.coursera.community"
+- "+.coursera.help"
+- "+.coursera.org"

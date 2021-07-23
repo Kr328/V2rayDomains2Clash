@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/espn
+
+# Behavior: domain
+
+payload:
+- "+.dtci.co"
+- "+.dtci.technology"
+- "+.espn.co.uk"
+- "+.espn.com"
+- "+.espn.net"
+- "+.espncdn.com"
+- "+.espnqa.com"
+- "+.watchespn.com"
+- "espn.hb.omtrdc.net"
+- "espndotcom.tt.omtrdc.net"

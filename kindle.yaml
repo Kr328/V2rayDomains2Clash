@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kindle
+
+# Behavior: domain
+
+payload:
+- "+.kindle"
+- "+.kindle.cn"
+- "+.kindle.co.jp"
+- "+.kindle.co.uk"
+- "+.kindle.com"
+- "+.kindle.de"
+- "+.kindle.es"
+- "+.kindle.fr"
+- "+.kindle.in"
+- "+.kindle.it"
+- "+.kindle.jp"
+- "+.kindleoasis.cn"
+- "+.kindleoasis.com"
+- "+.kindleoasis.com.cn"
+- "+.kindleoasis.info"
+- "+.kindleoasis.jp"
+- "+.kindleoasis.org"
+- "+.kindleoasis.us"
+- "+.kindleoasisnews.com"
+- "+.kindleproject.com"

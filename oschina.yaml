@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oschina
+
+# Behavior: domain
+
+payload:
+- "+.gitee.com"
+- "+.gitee.io"
+- "+.oschina.net"

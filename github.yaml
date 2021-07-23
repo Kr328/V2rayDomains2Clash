@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/github
+
+# Behavior: domain
+
+payload:
+- "+.atom.io"
+- "+.dependabot.com"
+- "+.ghcr.io"
+- "+.git.io"
+- "+.github.blog"
+- "+.github.com"
+- "+.github.community"
+- "+.github.dev"
+- "+.github.io"
+- "+.githubapp.com"
+- "+.githubassets.com"
+- "+.githubhackathon.com"
+- "+.githubpreview.dev"
+- "+.githubstatus.com"
+- "+.githubusercontent.com"
+- "+.myoctocat.com"
+- "+.npm.community"
+- "+.npmjs.com"
+- "+.npmjs.org"
+- "+.thegithubshop.com"
+- "github-avatars.oss-cn-hongkong.aliyuncs.com"
+- "github-cloud.s3.amazonaws.com"

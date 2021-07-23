@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vaptcha
+
+# Behavior: domain
+
+payload:
+- "+.vaptcha.com"
+- "+.vaptcha.net"

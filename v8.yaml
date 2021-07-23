@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/v8
+
+# Behavior: domain
+
+payload:
+- "+.v8.dev"
+- "+.v8project.org"

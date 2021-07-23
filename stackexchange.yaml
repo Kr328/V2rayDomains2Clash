@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/stackexchange
+
+# Behavior: domain
+
+payload:
+- "+.askubuntu.com"
+- "+.blogoverflow.com"
+- "+.mathoverflow.net"
+- "+.serverfault.com"
+- "+.sstatic.net"
+- "+.stackapps.com"
+- "+.stackauth.com"
+- "+.stackexchange.com"
+- "+.stackmod.blog"
+- "+.stackoverflow.blog"
+- "+.stackoverflow.com"
+- "+.stackoverflow.email"
+- "+.stackoverflowbusiness.com"
+- "+.stacksnippets.net"
+- "+.superuser.com"
+- "+.tex-talk.net"
+- "+.thesffblog.com"

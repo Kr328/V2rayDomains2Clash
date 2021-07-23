@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/suning
+
+# Behavior: domain
+
+payload:
+- "+.cnsuning.com"
+- "+.suning.com"
+- "+.suningcloud.com"
+- "+.suningestate.com"
+- "+.suningholdings.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mailru
+
+# Behavior: domain
+
+payload:
+- "+.imgsmail.ru"
+- "+.mail.ru"
+- "+.mycdn.me"

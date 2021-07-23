@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/umeng-ads
+
+# Behavior: domain
+
+payload:
+- "+.alog.umeng.com"
+- "+.alog.umengcloud.com"
+- "+.w.cnzz.com"

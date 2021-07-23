@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pugpig
+
+# Behavior: domain
+
+payload:
+- "+.pugpig-dev.com"
+- "+.pugpig-stage.com"
+- "+.pugpig.com"

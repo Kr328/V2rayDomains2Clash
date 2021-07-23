@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/infowars
+
+# Behavior: domain
+
+payload:
+- "+.banned.video"
+- "+.infowars.com"
+- "+.infowarsmedia.com"

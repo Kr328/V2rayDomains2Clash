@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/muji
+
+# Behavior: domain
+
+payload:
+- "+.muji.com"
+- "+.muji.com.cn"
+- "+.muji.com.hk"
+- "+.muji.eu"
+- "+.muji.net"
+- "+.muji.tw"
+- "+.muji.us"
+- "+.mujikorea.net"

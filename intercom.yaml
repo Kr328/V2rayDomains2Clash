@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intercom
+
+# Behavior: domain
+
+payload:
+- "+.intercom.com"
+- "+.intercom.io"
+- "+.intercomassets.com"
+- "+.intercomcdn.com"

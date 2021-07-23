@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mozilla
+
+# Behavior: domain
+
+payload:
+- "+.bugzilla.org"
+- "+.crates.io"
+- "+.docs.rs"
+- "+.firefox.com"
+- "+.getpocket.com"
+- "+.mozilla.community"
+- "+.mozilla.net"
+- "+.mozilla.org"
+- "+.rust-lang.org"
+- "+.rustup.rs"
+- "+.seamonkey-project.org"
+- "+.thunderbird.net"
+- "mdn.mozillademos.org"
+- "media.prod.mdn.mozit.cloud"

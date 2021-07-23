@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/snap
+
+# Behavior: domain
+
+payload:
+- "+.sc-cdn.net"
+- "+.snap-dev.net"
+- "+.snap.com"
+- "+.snapads.com"
+- "+.snapchat.com"
+- "+.snapkit.co"

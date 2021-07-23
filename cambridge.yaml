@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cambridge
+
+# Behavior: domain
+
+payload:
+- "+.cambridge.org"
+- "+.cambridgedigital.net"
+- "+.cambridgemaths.org"
+- "+.cambridgeschoolshakespeare.com"

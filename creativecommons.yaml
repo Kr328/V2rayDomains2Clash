@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/creativecommons
+
+# Behavior: domain
+
+payload:
+- "+.ccstatic.org"
+- "+.creativecommons.engineering"
+- "+.creativecommons.org"
+- "+.licensebuttons.net"

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ubi
+
+# Behavior: domain
+
+payload:
+- "+.ubi.com"
+- "+.ubisoft.com"
+- "+.uplay.com"
+- "ubisoft-orbit-savegames.s3.amazonaws.com"
+- "ubisoft-uplay-savegames.s3.amazonaws.com"

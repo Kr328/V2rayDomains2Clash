@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/razer
+
+# Behavior: domain
+
+payload:
+- "+.razer.com"
+- "+.razersupport.com"
+- "+.razerzone.com"
+- "+.razerzone.jp"
+- "+.respawnbyrazer.com"

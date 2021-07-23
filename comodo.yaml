@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/comodo
+
+# Behavior: domain
+
+payload:
+- "+.comodo.com"
+- "+.comodoca.com"
+- "+.comodoca2.com"
+- "+.comodoca3.com"
+- "+.comodoca4.com"

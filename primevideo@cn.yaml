@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/primevideo
+
+# Behavior: domain
+
+payload:
+- "+.amazonprimevideo.cn"
+- "+.amazonprimevideo.com.cn"

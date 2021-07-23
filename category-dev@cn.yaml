@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+
+# Behavior: domain
+
+payload:
+- "+.clearlinux.cn"
+- "+.microsoftreactor.cn"
+- "+.microsoftreactor.com.cn"
+- "+.reactorms.com.cn"
+- "+.researchkit.cn"
+- "+.researchkit.com.cn"
+- "+.swiftui.cn"
+- "+.swiftui.com.cn"
+- "cdn.ampproject.org"
+- "cdn.jsdelivr.net"

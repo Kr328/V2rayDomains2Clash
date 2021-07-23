@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/stripe
+
+# Behavior: domain
+
+payload:
+- "+.stripe.com"
+- "+.stripe.network"
+- "+.stripecdn.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/costco
+
+# Behavior: domain
+
+payload:
+- "+.costco-static.com"
+- "+.costco.com"
+- "+.costcobusinessdelivery.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/miniso
+
+# Behavior: domain
+
+payload:
+- "+.miniso.cn"
+- "+.minisohome.cn"
+- "+.minsio.cn"

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zb
+
+# Behavior: domain
+
+payload:
+- "+.zb.app"
+- "+.zb.com"
+- "+.zb.io"
+- "+.zb.live"

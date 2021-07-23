@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nypost
+
+# Behavior: domain
+
+payload:
+- "+.nypost.com"
+- "+.nypost.help"
+- "+.nypostreprints.com"

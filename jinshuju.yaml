@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jinshuju
+
+# Behavior: domain
+
+payload:
+- "+.jinshuju.net"
+- "+.jinshujucdn.com"

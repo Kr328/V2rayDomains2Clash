@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/newsmax
+
+# Behavior: domain
+
+payload:
+- "+.andysparis.com"
+- "+.newsmax.com"
+- "+.newsmax.in"
+- "+.newsmaxtv.com"

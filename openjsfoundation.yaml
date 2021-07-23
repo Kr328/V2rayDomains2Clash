@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openjsfoundation
+
+# Behavior: domain
+
+payload:
+- "+.amp.dev"
+- "+.ampproject.com"
+- "+.ampproject.net"
+- "+.ampproject.org"
+- "+.electronjs.org"
+- "+.jquery.com"
+- "+.jquerymobile.com"
+- "+.jqueryui.com"
+- "+.mochajs.org"
+- "+.nodejs.org"
+- "+.openjsf.org"
+- "amp.akamaized.net"

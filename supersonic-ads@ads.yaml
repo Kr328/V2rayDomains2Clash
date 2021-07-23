@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/supersonic-ads
+
+# Behavior: domain
+
+payload:
+- "+.ssacdn.com"
+- "+.supersonic.com"
+- "+.supersonicads-a.akamaihd.net"
+- "+.supersonicads.com"

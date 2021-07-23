@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/capitalonline
+
+# Behavior: domain
+
+payload:
+- "+.capitalonline.net"
+- "+.mirrors.yun-idc.com"

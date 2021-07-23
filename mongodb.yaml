@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mongodb
+
+# Behavior: domain
+
+payload:
+- "+.mongodb.com"
+- "+.mongodb.org"

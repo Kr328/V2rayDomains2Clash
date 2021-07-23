@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amd
+
+# Behavior: domain
+
+payload:
+- "+.amd.com"
+- "+.amdfanstore.com"
+- "+.radeon.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/liepin
+
+# Behavior: domain
+
+payload:
+- "+.liepin.com"
+- "+.lietou-static.com"
+- "+.lietou.com"

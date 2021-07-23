@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dnspod
+
+# Behavior: domain
+
+payload:
+- "+.dns.pub"
+- "+.dnsapi.cn"
+- "+.dnspod.cn"
+- "+.dnspod.com"
+- "+.dnspod.com.cn"
+- "+.dnspod.net"
+- "+.dnspod.org"
+- "+.dnsv1.com"
+- "+.dnsv2.com"
+- "+.dnsv3.com"
+- "+.dnsv4.com"
+- "+.dnsv5.com"
+- "+.doh.pub"

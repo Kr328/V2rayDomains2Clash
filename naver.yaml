@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/naver
+
+# Behavior: domain
+
+payload:
+- "+.grafolio.com"
+- "+.lin.ee"
+- "+.line-apps-beta.com"
+- "+.line-apps.com"
+- "+.line-beta.me"
+- "+.line-cdn.net"
+- "+.line-scdn.net"
+- "+.line.me"
+- "+.linecorp.com"
+- "+.linefriends.com"
+- "+.linefriends.com.tw"
+- "+.linegame.jp"
+- "+.linemobile.com"
+- "+.linetv.tw"
+- "+.naver.com"
+- "+.naver.jp"
+- "+.naver.net"
+- "+.navercorp.com"
+- "+.nhncorp.jp"
+- "+.plug.game"
+- "+.pstatic.net"
+- "+.webtoons.com"

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pixiv
+
+# Behavior: domain
+
+payload:
+- "+.pixiv.co.jp"
+- "+.pixiv.net"
+- "+.pixiv.org"
+- "+.pximg.net"
